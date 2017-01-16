@@ -1,0 +1,5 @@
+// Exported skin weight map file
+// 
+body	joint1	body_joint1.iff
+body	joint2	body_joint2.iff
+body	joint3	body_joint3.iff
